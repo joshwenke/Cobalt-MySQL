@@ -1,3 +1,7 @@
+/** 
+ * Copyright 2013 Cobalt Network, LLC
+ */
+
 package com.cobalt.mysql;
 
 public class TaskManager
